@@ -642,7 +642,7 @@
     <string name="screen_state_toggles_title">Akcje przy uśpieniu</string>
     <string name="screen_state_toggles_summary">Kontroluj, jak zachowują się sieć i GPS, gdy ekran jest włączony/wyłączony</string>
     <string name="screen_state_toggles_enable_title">Włącz</string>
-    <string name="screen_state_toggles_enable_summary">AAkcje wykonywane przy wyłączonym ekranie</string>
+    <string name="screen_state_toggles_enable_summary">Akcje wykonywane przy wyłączonym ekranie</string>
     <string name="screen_state_toggles_mobile_title">Sieć komórkowa</string>
     <string name="screen_state_toggles_location_title">Lokalizacja</string>
     <string name="screen_state_toggles_twog">Przełącz na 2G</string>
@@ -1335,19 +1335,19 @@
     <string name="brightness_slider_style_title">Styl suwaka jasności</string>
     <string name="brightness_slider_style_default">Domyślny</string>
     <string name="brightness_slider_style_daniel">Daniel</string>
-    <string name="brightness_slider_style_mememini">Mem mini</string>
-    <string name="brightness_slider_style_memeround">Mem okrągły</string>
-    <string name="brightness_slider_style_memeroundstroke">Mem okrągły z pociągnięciem</string>
-    <string name="brightness_slider_style_memestroke">Mem z pociągnięciem</string>
+    <string name="brightness_slider_style_mememini">MemeUI mini</string>
+    <string name="brightness_slider_style_memeround">MemeUI okrągły</string>
+    <string name="brightness_slider_style_memeroundstroke">MemeUI okrągły z pociągnięciem</string>
+    <string name="brightness_slider_style_memestroke">MemeUI z pociągnięciem</string>
 
     <!-- System-wide Slider Styles -->
     <string name="system_slider_style_title">Styl suwaków w systemie</string>
     <string name="system_slider_style_default">Domyślny</string>
     <string name="system_slider_style_daniel">Daniel</string>
-    <string name="system_slider_style_mememini">Mem mini</string>
-    <string name="system_slider_style_memeround">Mem okrągły</string>
-    <string name="system_slider_style_memeroundstroke">Mem okrągły z pociągnięciem</string>
-    <string name="system_slider_style_memestroke">Mem z pociągnięciem</string>
+    <string name="system_slider_style_mememini">MemeUI mini</string>
+    <string name="system_slider_style_memeround">MemeUI okrągły</string>
+    <string name="system_slider_style_memeroundstroke">MemeUI okrągły z pociągnięciem</string>
+    <string name="system_slider_style_memestroke">MemeUI z pociągnięciem</string>
 
     <!-- Qs Header Clock Font Style, Size & Color -->
     <string name="sb_clock_styling">Stylizacja zegara pasku stanu</string>
